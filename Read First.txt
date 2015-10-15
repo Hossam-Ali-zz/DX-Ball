@@ -1,0 +1,2 @@
+Please open the project with codeblocks
+Change all the directory paths of the images to the new path
